@@ -7,7 +7,7 @@ This guide keeps in mind the people who aren't familiar with macOS, as well as a
 
 Any (italicized text) indicates further important information below the (regular text), or provide a caption for an (image) above it.
 
-Any (monospaced text)indicates a command that needs to be used in macOS's terminal application. To use those commands, either copy and paste it from this document into the window, or type it out yourself. Make sure there are no spelling errors when you type the commands though!
+Any (monospaced text) indicates a command that needs to be used in macOS's terminal application. To use those commands, either copy and paste it from this document into the window, or type it out yourself. Make sure there are no spelling errors when you type the commands though!
 
 I'd also like to remind everyone referencing this to read the whole guide carefully! 
 

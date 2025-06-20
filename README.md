@@ -11,7 +11,7 @@ Any (monospaced text)indicates a command that needs to be used in macOS's termin
 
 I'd also like to remind everyone referencing this to read the whole guide carefully! 
 
-## this is a host page for the google doc that i've made! it is attached to this github page on the left!
-# the first chapter has the exact same text that this markdown file has!
+## this is a host page for the google doc that i've made! it is attached to this github page right below this!
+### the first chapter has the exact same text that this markdown file has!
 
 link to docs: https://docs.google.com/document/d/1MwAYYhhJsg8kEmnBTLnaT7TKGHL2HbqEqct8j9ZYnWY/edit?usp=sharing
